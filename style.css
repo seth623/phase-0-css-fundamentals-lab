@@ -3,3 +3,44 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+/*#room {
+  margin: auto;
+  display: block;
+}*/
+
+#links {
+  text-align: center;
+}
+
+.link {
+  background-color: pink;
+  padding: 10px;
+}
+
+#featured-property {
+  text-align: center;
+}
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
+  margin:auto;
+}
+
+#details {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+
+.footer {
+  float: left;
+  text-align: center;
+  width: 25%;
+  background-color: pink;
+}
